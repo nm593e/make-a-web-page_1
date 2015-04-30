@@ -1,0 +1,60 @@
+body {
+	padding: 20px 10px;
+	font-family: Helvetica;
+	max-width: 2000px;
+	margin: 0 auto; 
+	font-size: 1.6em;
+}                
+h1 {
+	text-align: center;
+	color: #294860;
+}
+
+p {
+	margin: 10px 0;
+}
+
+ul {
+	list-style-type: circle; 
+}
+li {
+	font-size: 20px;
+	line-height: 50px; /* each line of text should occupy 44 pixels of height (good for mobile usage and fat fingers) */
+}
+
+.Chapter {
+	background-color: #294860;
+	border-radius: 20px;
+	color: white;
+	padding: 10px;
+	margin: 10px auto;
+}
+h2 {
+	margin: 10px;
+}
+.concept {
+	background-color: #DFEAF1;
+	padding: 4px;
+	margin: 10px;
+	border-radius: 4px;
+	color: black;
+}
+
+.concept-title {
+	font-size: 28px;
+	margin: 8px;
+	text-align: center;
+	color: #294860;
+}
+
+.concept-description {
+	font-weight: lighter;
+	margin: 6px;
+}
+
+
+.footer {
+  text-align:center;
+  font-family: Century Gothic, sans-serif;
+  font-size: 12px;
+}
